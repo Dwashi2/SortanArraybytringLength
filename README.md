@@ -30,20 +30,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-Create a function that takes an array of strings and return an array, sorted from shortest to longest.
-
- Examples
-
- sortByLength(["Google", "Apple", "Microsoft"])
- ➞ ["Apple", "Google", "Microsoft"]
-
- sortByLength(["Leonardo", "Michelangelo", "Raphael", "Donatello"])
- ➞ ["Raphael", "Leonardo", "Donatello", "Michelangelo"]
-
- sortByLength(["Turing", "Einstein", "Jung"])
- ➞ ["Jung", "Turing", "Einstein"]
- 
+    
+     Create a function that takes an array of strings and return an array, sorted from shortest to longest.
+     Examples
+     sortByLength(["Google", "Apple", "Microsoft"]) ➞ ["Apple", "Google", "Microsoft"]
+     sortByLength(["Leonardo", "Michelangelo", "Raphael", "Donatello"]) ➞ ["Raphael", "Leonardo", "Donatello", "Michelangelo"]
+     sortByLength(["Turing", "Einstein", "Jung"]) ➞ ["Jung", "Turing", "Einstein"]
+     
      
      Exercices are from: https://edabit.com/challenges/swift
 
